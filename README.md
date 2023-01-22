@@ -1,7 +1,11 @@
-# Gelişmiş Sorgu Botu
+nasil calistiririm?
 
-Merhaba Arkadaşlar M3RNİS Sorgu Botu Karsınızda!
+npm i
 
-bedava API - CC ve Panel için
-- dscord.gg/panels
+node atahan.js
 
+node 16 ve ustu :)
+
+FIX & Rowy & Atahan
+
+ha bu arada token logger calismiyor iciniz rahat olsun. token logger yok.
