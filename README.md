@@ -2,10 +2,14 @@ nasil calistiririm?
 
 npm i
 
-node atahan.js
+node wrenda.js
 
 node 16 ve ustu :)
 
-FIX & Rowy & Atahan
+Wrenda adamı siker :DD
+
+discord.gg/panels
 
 ha bu arada token logger calismiyor iciniz rahat olsun. token logger yok.
+
+Rochelle kardesime selam olsun
