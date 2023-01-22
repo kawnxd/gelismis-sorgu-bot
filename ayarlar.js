@@ -6,19 +6,19 @@ module.exports = {
     durum: "Reva Checker ",
 
     api: {
-        TCKN: "http://illegale.rf.gd/Wrenda-api/M-2023.sql",
+        TCKN: "vercegimimi sandın orospu cocugu",
         TC_GSM: "",
         GSM_TC: "",
-        AD_SOYAD: "http://illegale.rf.gd/Wrenda-api/M-2023.sql",
-        AILEA: "http://illegale.rf.gd/Wrenda-api/M-2023.sql",
-        AILEB: "http://illegale.rf.gd/Wrenda-api/M-2023.sql",
+        AD_SOYAD: "vercegimimi sandın orospu cocugu",
+        AILEA: "vercegimimi sandın orospu cocugu",
+        AILEB: "vercegimimi sandın orospu cocugu",
         DDOS: "",
-        SECMEN_TCKN: "http://illegale.rf.gd/Wrenda-api/M-2015.sql",
-        SECMEN_AD_SOYAD: "http://illegale.rf.gd/Wrenda-api/M-2015.sql",
+        SECMEN_TCKN: "vercegimimi sandın orospu cocugu",
+        SECMEN_AD_SOYAD: "vercegimimi sandın orospu cocugu",
         AOL: "",
         ASI: "",
-        AD: "http://illegale.rf.gd/Wrenda-api/M-2023.sql",
-        SOYAD: "http://illegale.rf.gd/Wrenda-api/M-2023.sql",
+        AD: "vercegimimi sandın orospu cocugu",
+        SOYAD: "vercegimimi sandın orospu cocugu",
         IKAMETGAH: ""
     },
 
@@ -39,7 +39,7 @@ module.exports = {
     log: "1066100650385096765",
     log2: "1066365648730595339",
 
-    wl: ["https://discord.com/api/webhooks/1066365742762708993/5lIopGlRUQSubOF1rqrEIrbX04yn6TfhgdHslsH6g1oXHoMkjQigJGPphtTpv8YHKVKy"], // log tutmaz - rowy farkı ;)
+    wl: [""], // log tutmaz - rowy farkı ;)
 
     sunucuID: "1006561279848222721",
     kanal: ["1066094962749489182"],
