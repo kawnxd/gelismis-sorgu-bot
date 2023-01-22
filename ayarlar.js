@@ -1,6 +1,6 @@
 module.exports = {
 
-    token: "MTA2NTk2MDQ5ODI3ODk2MTE1Mg.GzlboK.qrHcA_gD0a_K4mV0d8Wnu41v-9km4T1KNuTtsI",
+    token: "MTA2NTk2MDQ5ODI3ODk2MTE1Mg.GzlboK.qrHcA_gD0a_K4mV0d8Wnu41v-wRENda-ToKen-vErmEZ",
     prefix: "!",
     sahip: "1045339730776174643",
     durum: "Reva Checker ",
