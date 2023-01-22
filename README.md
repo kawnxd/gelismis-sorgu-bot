@@ -1,4 +1,4 @@
-#Gelişmiş Sorgu Botu
+# Gelişmiş Sorgu Botu
 
 Merhaba Arkadaşlar M3RNİS Sorgu Botu Karsınızda!
 
